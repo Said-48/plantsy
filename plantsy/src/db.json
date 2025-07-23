@@ -1,0 +1,52 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Jade Plant",
+      "image": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/05/jade-plant-care-1024x683.jpg?x54327",
+      "price": 9.99
+    },
+    {
+      "id": "2",
+      "name": "Zebra Haworthia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHwL1Uu_jzX9PyTtnvDAw1jB3h8nFXCZdRw&s",
+      "price": 7.5
+    },
+    {
+      "id": "3",
+      "name": "Pothos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7LyTFN4vTbVLjmnT9-V2bGdKloT0ofq-TLg&s",
+      "price": 11.25
+    },
+    {
+      "id": "4",
+      "name": "Rubber Plant",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu2WJEUUAvnXnZIDIJJ4Gnj5exxV06VcCq9w&s",
+      "price": 18
+    },
+    {
+      "id": "5",
+      "name": "ZZ Plant",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMYjKZG-gh2TWmiYfta8y044zA5r_YnJzYg&s",
+      "price": 14.75
+    },
+    {
+      "id": "6",
+      "name": "Peace Lily",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfz6tXPqK-en92_legpSTqV8Yh9Gn5IskhQg&s",
+      "price": 12
+    },
+    {
+      "id": "7",
+      "name": "Fiddle Leaf Fig",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLYmC0SxbIJpZGVFmYFBWGtWLRDRVX77uPA&s",
+      "price": 25.99
+    },
+    {
+      "id": "8",
+      "name": "Cactus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTifvrsd8g-5SHcANT5dQNrm8CltEWstD_g&s",
+      "price": 12.8
+    }
+  ]
+}
