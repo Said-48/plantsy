@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
 function PlantCard({ image, name, price }) {
-    const [inStock, SetInStock] = useState(true);
+    const [inStock, setInStock] = useState(true);
     function handleChangeStock() {
-        SetInStock(!inStock);
+        setInStock(!inStock);
     }
 
     return (
@@ -11,7 +11,7 @@ function PlantCard({ image, name, price }) {
             <img src={image} alt={name} />
             <h2>{name}</h2>
             <p>${price}</p>
-            <button onClick={handleChangeStock}>
+            <button onClick={handleChangeStock} style={{ backgroundColor: inStock ? "green" : "red", color: "white" }}>
                 {inStock ? "In Stock" : "Out of Stock"}
             </button>
 
